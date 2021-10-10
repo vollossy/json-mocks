@@ -3,6 +3,11 @@
     "columnDefs": {
       "id": "INT",
       "name": "STRING"
-    }
+    },
+    "rows": [
+      {"id": 1, "name": "Ромка"},
+      {"id": 2, "name": "Назар"},
+      {"id": 3, "name": "Женька"}
+    ]
   }
 }
